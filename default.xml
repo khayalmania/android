@@ -512,7 +512,7 @@
   <include name="snippets/cm.xml" />
   
   <project path="device/xiaomi/land" name="khayalmania/android_device_xiaomi_land" remote="github" revision="cm-14.1" />
-  <project path="vendor/xiaomi" name="khayalmania/android_vendor_xiaomi" remote="github" revision="cm-14.1" />
+  <project path="vendor/xiaomi/land" name="khayalmania/proprietary_vendor_xiaomi" remote="github" revision="cm-14.1" />
   <project path="kernel/xiaomi/msm8937" name="khayalmania/android_kernel_xiaomi_msm8937" remote="github" revision="cm-14.1" />
 
 </manifest>
